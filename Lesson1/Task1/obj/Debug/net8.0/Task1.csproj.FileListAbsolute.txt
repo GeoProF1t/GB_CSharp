@@ -1,0 +1,14 @@
+D:\EducationGB\Домашки основной курс Аналитик\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\bin\Debug\net8.0\Task1.exe
+D:\EducationGB\Домашки основной курс Аналитик\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\bin\Debug\net8.0\Task1.deps.json
+D:\EducationGB\Домашки основной курс Аналитик\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+D:\EducationGB\Домашки основной курс Аналитик\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\bin\Debug\net8.0\Task1.dll
+D:\EducationGB\Домашки основной курс Аналитик\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\bin\Debug\net8.0\Task1.pdb
+D:\EducationGB\Домашки основной курс Аналитик\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\EducationGB\Домашки основной курс Аналитик\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+D:\EducationGB\Домашки основной курс Аналитик\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+D:\EducationGB\Домашки основной курс Аналитик\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+D:\EducationGB\Домашки основной курс Аналитик\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net8.0\Task1.dll
+D:\EducationGB\Домашки основной курс Аналитик\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net8.0\refint\Task1.dll
+D:\EducationGB\Домашки основной курс Аналитик\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net8.0\Task1.pdb
+D:\EducationGB\Домашки основной курс Аналитик\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+D:\EducationGB\Домашки основной курс Аналитик\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net8.0\ref\Task1.dll
