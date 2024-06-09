@@ -23,3 +23,20 @@ Console.WriteLine(quotient);
 d1 = 6;
 double quotient2 = i1 / d1;
 Console.WriteLine(quotient2);
+
+// Домашнее задание. Вычислить значение формулы a * b
+//                                              _____
+//
+//                                              c + d ,
+// где a,b,c,d - некоторые целые цисла.
+// Результат вывести на экран.
+
+
+int a = 4;
+int b = 3;
+int c = 2;
+int d = 1;
+int product4 = a * b;
+int sum4 = c + d;
+double quotient3 = product4 / sum4;
+Console.WriteLine(quotient3);
