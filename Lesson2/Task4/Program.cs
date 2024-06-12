@@ -31,4 +31,4 @@ foreach (int e in array)
         max = e;
     }
 }
-Console.WriteLine(max);
+Console.WriteLine(max); 
